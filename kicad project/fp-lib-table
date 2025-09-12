@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "ESP32_C3_Super_Mini")(type "KiCad")(uri "${KIPRJMOD}/ESP32_C3_Super_Mini.pretty")(options "")(descr ""))
+  (lib (name "Project Libraries")(type "KiCad")(uri "${KIPRJMOD}/Project Libraries.pretty")(options "")(descr ""))
 )

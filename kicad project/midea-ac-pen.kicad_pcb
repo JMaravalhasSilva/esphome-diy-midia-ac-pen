@@ -109,7 +109,7 @@
 	(net 29 "unconnected-(U1-GPIO_9-Pad12)_1")
 	(net 30 "unconnected-(U1-GPIO_8-Pad11)_1")
 	(net 31 "unconnected-(U1-GPIO_6-Pad9)_1")
-	(footprint "ESP32_C3_Super_Mini:PCB_USB"
+	(footprint "Project Libraries:PCB_USB"
 		(layer "F.Cu")
 		(uuid "067aa367-a71b-4b78-b7b3-7edb2fbfe7c4")
 		(at 89.6 117)
@@ -237,7 +237,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "ESP32_C3_Super_Mini:ESP32_C3_Super_Mini"
+	(footprint "Project Libraries:ESP32_C3_Super_Mini"
 		(layer "F.Cu")
 		(uuid "0c3ae44b-612a-4c60-9d04-7e472d19b29b")
 		(at 121.8 117 -90)
@@ -2373,7 +2373,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1.84"
+		(gr_text "1,84"
 			(at 143.65 128.08 90)
 			(layer "Edge.Cuts")
 			(uuid "e3017a43-87ad-4e3b-a3b4-925eb697d5ab")
@@ -2411,7 +2411,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1.84"
+		(gr_text "1,84"
 			(at 143.85 105.92 90)
 			(layer "Edge.Cuts")
 			(uuid "fc4933d6-44ff-44c0-bce6-d32165c1f068")
